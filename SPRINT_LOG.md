@@ -11,3 +11,7 @@ Closing markdown_to_pdf project as all acceptance criteria are met and tests pas
 ## Turn 1 — Manager (2026-05-21 07:20 UTC)
 
 
+
+## Turn 2 — Craft (2026-05-21 07:23 UTC)
+
+Fixed test isolation by adding a pytest fixture to clear the global expenses list before each test, preventing state leakage between tests.
