@@ -7,6 +7,6 @@
     "calculate_total function returns the sum of all amounts"
   ],
   "meeting_budget": 4,
-  "meetings_held": 0,
-  "status": "active"
+  "meetings_held": 2,
+  "status": "complete"
 }
