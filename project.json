@@ -1,1 +1,12 @@
-{"goal": "Create a module to parse expense data and generate a summary report.", "acceptance_criteria": ["expense_tracker module exists and can be imported", "parse_expenses function takes a list of expense dicts and returns a summary dict", "Tests pass and cover all criteria"], "meeting_budget": 4, "meetings_held": 0, "status": "active"}
+{
+  "goal": "Create a tool to track expenses.",
+  "acceptance_criteria": [
+    "expense_tracker module exists and can be imported",
+    "add_expense function adds an expense and returns a dict",
+    "get_expenses function returns a list of expenses",
+    "calculate_total function returns the sum of all amounts"
+  ],
+  "meeting_budget": 4,
+  "meetings_held": 0,
+  "status": "active"
+}
